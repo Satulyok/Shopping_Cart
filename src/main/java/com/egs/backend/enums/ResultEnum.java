@@ -23,7 +23,6 @@ public enum ResultEnum  {
     USER_NOT_FOUND(40,"User is not found!")
     ;
 
-
     private Integer code;
 
     private String message;
